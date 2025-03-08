@@ -1,4 +1,4 @@
-name: TAREA_3_A
+name: TAREA_3_A_1
 channels:
   - conda-forge
   - defaults
@@ -8,3 +8,5 @@ dependencies:
   - numpy
   - matplotlib
   - seaborn
+  - jupyter
+  - ipykernel
