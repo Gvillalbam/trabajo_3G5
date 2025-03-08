@@ -1,4 +1,4 @@
-name: TAREA_3_A_1
+name: T_3_A
 channels:
   - conda-forge
   - defaults
